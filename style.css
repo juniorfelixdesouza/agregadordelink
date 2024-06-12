@@ -34,6 +34,7 @@ body {
 
   /*background: color imagem repeat position/size */
   background: var(--bg-url) top center/cover;
+  height: 100vh;
 }
 
 body * {
@@ -162,3 +163,13 @@ footer {
   text-align: center;
   font-size: 16px;
 }
+
+/*media queries*/
+@media (min-width: 700px){
+  :root {
+    --bg-url:url(./assests/bg-desktop.jpg);
+  }
+  .light{
+    --bg-url: url(/.assests/bg-desktop-light.jpg);
+  }
+  }
