@@ -1,6 +1,6 @@
 ## Agregador de links
 
-![App demo](https://github.com/juniorfelixdesouza/agregadordelink/blob/principal/rsc/demo.gif?raw=true)
+![App demo](https://github.com/juniorfelixdesouza/agregadordelink/blob/main/rsc/demo.gif?raw=true)
 
 Esse foi o primeiro projeto que construí com objetivo de demonstrar conhecimentos na criação de páginas web. Ele utiliza light/dark mode, HTML, CSS, JavaScript, Git, Figma.
 
@@ -14,7 +14,7 @@ Apesar desses contra tempos, entendi desde cedo que um bom programador é capaz 
 
 ## Design no Figma
 
-![Figma](https://github.com/juniorfelixdesouza/agregadordelink/blob/principal/rsc/figma-2024.png?raw=true)
+![Figma](https://github.com/juniorfelixdesouza/agregadordelink/blob/main/rsc/figma-2024.png?raw=true)
 
 ## Veja o projeto
 
